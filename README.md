@@ -2,7 +2,7 @@
 **Yield Curve as Recession Indicator in the framework of Machine Learning** 
 
 
-Abstract
+# Abstract
 
 This paper studies the infromation content of the yield curve as recession
 indicator in the Eurozone. This paper employs a dataset extending from 1970 to
