@@ -1,5 +1,5 @@
 # Research
-**"Yield Curve as Recession Indicator in the framework of Machine Learning** 
+**Yield Curve as Recession Indicator in the framework of Machine Learning** 
 
 
 Abstract
